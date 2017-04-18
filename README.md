@@ -1,0 +1,2 @@
+# mappy
+Map-based functions
