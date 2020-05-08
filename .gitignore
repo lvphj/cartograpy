@@ -107,3 +107,4 @@ venv38/
 *.pptx
 *.ppt
 images/
+.idea/
