@@ -1,2 +1,2 @@
-# mappy
+# CartograPy
 Map-based functions
