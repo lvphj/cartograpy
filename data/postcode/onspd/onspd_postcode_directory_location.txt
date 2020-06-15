@@ -1,0 +1,20 @@
+Source of ONS postcode data
+===========================
+
+ONS postcode data files can be downloaded from:
+
+    Homepage: https://census.ukdataservice.ac.uk
+    Boundary data: https://census.ukdataservice.ac.uk/get-data/boundary-data.aspx
+    Postcode Directory: https://borders.ukdataservice.ac.uk/pcluts.html
+
+Postcode directory updated quarterly (Feb, May, Aug, Nov).
+
+
+Instructions
+------------
+
+1. Download postcode directory as zipped file (e.g. file called '2020 (May) ONSPD Comma Separated Variable Version').
+
+2. Extract archive to produce directory called, for example, 'pcluts_2020may'.
+
+3. Ensure paths in ipynb notebooks point to the correct location.
